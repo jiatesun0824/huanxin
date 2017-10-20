@@ -1,0 +1,17 @@
+ul,
+p,
+div,
+html,
+head,
+table,
+td,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+th {
+    padding: 0;
+    margin: 0;
+}
